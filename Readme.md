@@ -1,6 +1,6 @@
 A updated version of [Netroy’s image-size](https://github.com/netroy/image-size) with various pull-requests applied.
 
-#### Instalation
+#### Installation
 
 `npm install image-size`
 
