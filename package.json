@@ -1,7 +1,7 @@
 {
   "name": "image-size",
-  "version": "0.3.5",
-  "description": "get dimensions of any image file",
+  "version": "0.1.0",
+  "description": "Get dimensions of any image file",
   "main": "lib/index.js",
   "engines": {
     "node": ">=0.10.0"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:netroy/image-size.git"
+    "url": "git@github.com:AlexCharlton/image-size.git"
   },
   "keywords": [
     "image",
@@ -32,10 +32,10 @@
     "webp",
     "svg"
   ],
-  "author": "netroy <aditya@netroy.in> (http://netroy.in/)",
+  "author": "Alex Charlton <alex.n.charlton@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/netroy/image-size/issues"
+    "url": "https://github.com/AlexCharlton/image-size/issues"
   },
   "devDependencies": {
     "escomplex-js": "~0.1.4",
